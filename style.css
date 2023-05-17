@@ -43,7 +43,7 @@
     }
     img.foto{
         width: 200px;
-        margin: 10px
+        margin: 10px 0px;
     }
     p.firsttext{
         font-weight: 400px;
